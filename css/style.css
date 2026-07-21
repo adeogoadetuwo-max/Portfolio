@@ -1787,3 +1787,20 @@ visibility:hidden;
     transform: translateY(0);
     opacity: 1;
 }
+.logo{
+    display:flex;
+    align-items:center;
+    gap:12px;
+}
+
+.logo img{
+    width:55px;
+    height:55px;
+    border-radius:50%;
+}
+
+.logo h2{
+    color:white;
+    font-size:26px;
+    font-weight:700;
+}
